@@ -1,0 +1,18 @@
+#page {
+    background-color: bisque;
+    text-align: center;
+}
+
+.homepage-title {
+    color: rgb(212, 155, 69);
+    font-size: 50px;
+    font-family: cursive sans-serif;
+}
+
+h2{
+    color: rgb(226, 151, 37);
+}
+
+ul{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
